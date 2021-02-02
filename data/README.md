@@ -1,6 +1,6 @@
 Datafiles:
 
-* all_dnsv.csv: variant info for the *de novo* SVs. 
+* all_dnsv.csv: variant info for the *de novo* SVs based on the GRCh38 reference genome.
  <details>
  * Chrom: chromosome of the SV
  * Pos: start position of the SV
